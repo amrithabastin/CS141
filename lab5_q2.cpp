@@ -27,6 +27,7 @@ int main(){
 	else{
 		cout<<"maxima is "<<c<<endl;
 		}
+	return 0;
 	}
 
 
