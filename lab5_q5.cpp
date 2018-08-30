@@ -21,5 +21,5 @@ int main(){
 	else {
 		cout<<"it is even"<<endl;
 		}
-	//print
+	return 0;
  	}
