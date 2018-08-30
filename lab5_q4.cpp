@@ -29,7 +29,7 @@ int main(){
 	else  {
 		cout<<"number is not divisible by either 5 or 11"<<endl;
 		}
-
+	return 0;
 
 	}
 
