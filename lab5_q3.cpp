@@ -23,4 +23,5 @@ int main(){
  	else{
 		cout<<"it is equal to 0"<<endl;
 		}
+	return 0;
 	}
