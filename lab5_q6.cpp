@@ -32,5 +32,6 @@ int main(){
 	else {
   		cout<<a<<" is not a leap year"<<endl;
 		}
+	return 0;
 	}
 	
