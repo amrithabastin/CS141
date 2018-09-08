@@ -38,7 +38,7 @@ void ask2(int &a,int &b){
 	cout<< "enter numbers"<<endl;
 	cin>>a>>b;
 	}
-int findmin2(int a, int b, int &min){
+void findmin2(int a, int b, int &min){
 //compute minimum and store
 	if(a>b){
 		min= b;}
@@ -82,6 +82,7 @@ int main(){
 
 	
 
-
+	return 0;
+	
 
 	}
