@@ -82,6 +82,6 @@ int main(){
 		cout<<" so no maximum"<<endl;
 		}
 
-
+	return 0;
 	}
 
